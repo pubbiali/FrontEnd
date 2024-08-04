@@ -1,2 +1,2 @@
 # FrontEnd
-This repository will contain some frontedn project from YouTube
+This repository will contain some frontend projects from YouTube
